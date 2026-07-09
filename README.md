@@ -1,0 +1,1 @@
+AdMob app-ads.txt
